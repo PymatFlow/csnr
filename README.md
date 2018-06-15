@@ -1,2 +1,2 @@
 # csnr
-CSNR function in MATLAB
+Contrast Signal-to-Noise Ratio (CSNR) function in MATLAB
